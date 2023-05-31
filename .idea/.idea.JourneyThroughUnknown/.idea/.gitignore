@@ -6,8 +6,6 @@
 /projectSettingsUpdater.xml
 /.idea.JourneyThroughUnknown.iml
 /modules.xml
-/JourneyThroughUnknown/bin
-*.cache
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files
