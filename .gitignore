@@ -1,8 +1,5 @@
 ﻿/JourneyThroughUnknown/obj/Debug/JourneyThroughUnknown.csproj.CoreCompileInputs.cache
 *.cache
 /.idea/
-/JourneyThroughUnknown/obj/Debug/JourneyThroughUnknown.csproj.FileListAbsolute.txt
-/JourneyThroughUnknown/bin/Debug/JourneyThroughUnknown.exe
-/JourneyThroughUnknown/obj/Debug/JourneyThroughUnknown.exe
-/JourneyThroughUnknown/bin/Debug/JourneyThroughUnknown.pdb
-/JourneyThroughUnknown/obj/Debug/JourneyThroughUnknown.pdb
+/JourneyThroughUnknown/obj/
+/JourneyThroughUnknown/bin/
