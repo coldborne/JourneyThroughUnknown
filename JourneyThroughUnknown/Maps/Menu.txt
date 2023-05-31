@@ -1,0 +1,8 @@
+﻿==========================
+        GAME  MENU                
+==========================
+1. Start a New Game
+2. Choose a Level
+3. Quit the Game
+==========================
+Enter your choice (1-3): 
